@@ -7,7 +7,7 @@ const Logo = () => {
     <div className={"m4 mt0"}>
       <Tilty
         classname={"br2 shadow-2 tilt"}
-        options={{ max: 25 }}
+        options={{ max: 55 }}
         style={{ height: 150, width: 150 }}
       >
         <div className={"Tilt-inner p3"}>
